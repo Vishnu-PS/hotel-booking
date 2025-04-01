@@ -10,6 +10,8 @@ Cancel a booking by providing email and room details.
 Modify an existing booking (change check-in or check-out dates).
 This API stores booking data in-memory, meaning it will reset when the server restarts.
 
+NOTE : Input validations are not implemented.
+
 🚀 Installation & Setup
 
 1️⃣ Clone the Repository
